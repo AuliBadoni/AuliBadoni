@@ -1,4 +1,4 @@
-<img width="800" height="259" alt="butterfly-8bit" src="https://github.com/user-attachments/assets/374fa958-06a9-4b63-a5d0-fcc00539c3d5" />
+<img width="800" height="131" alt="butterfly-8bit" src="https://github.com/user-attachments/assets/e5050e0d-6e28-457b-a0db-fed0b5984f38" />
 
 <!--
 **AuliBadoni/AuliBadoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
